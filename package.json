@@ -1,0 +1,20 @@
+{
+  "name": "kdu-onsenui-helper-json",
+  "version": "1.0.0",
+  "author": "NKDuy",
+  "description": "Tags and attributes information of kdu-onsenui, which makes IDE / test editor plugin development easier.",
+  "private": false,
+  "files": [
+    "kdu-onsenui-tags.json",
+    "kdu-onsenui-attributes.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhduy1407/kdu-onsenui-helper-json.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/khanhduy1407/kdu-onsenui-helper-json/issues"
+  },
+  "homepage": "https://github.com/khanhduy1407/kdu-onsenui-helper-json#readme"
+}
